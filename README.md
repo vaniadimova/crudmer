@@ -1,3 +1,3 @@
 # crud mern application with auth
 
-# set goals annd users / mongoDB
+# set goals and users / mongoDB
