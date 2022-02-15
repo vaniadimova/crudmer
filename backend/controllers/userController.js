@@ -31,7 +31,7 @@ const user = await User.create({
     password: hashedPassword,
   })
 
-if(user) {
+if (user) {
     res.status(201).json({
         _id: user._id,
         name: user.name,
